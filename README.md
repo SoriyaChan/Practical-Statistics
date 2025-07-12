@@ -1,6 +1,6 @@
 # EDA
 
-The key idea of EDA is that the first and most important step in any project based on data is to look at the data. By summarizing and visualizing the data, you can gain valuable intuition and understanding off the project.
+The key idea of EDA is that the first and most important step in any project based on data is to look at the data. By summarizing and visualizing the data, you can gain valuable intuition and understanding of the project.
 
 Basic Data types in statistics: Numeric(discrete, continuous), Categorical(binary, ordinal, nominal)
 
